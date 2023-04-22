@@ -1,0 +1,15 @@
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\obj\Debug\net6.0\Singleton Stopwatch.csproj.AssemblyReference.cache
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\obj\Debug\net6.0\Singleton Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\obj\Debug\net6.0\Singleton Stopwatch.AssemblyInfoInputs.cache
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\obj\Debug\net6.0\Singleton Stopwatch.AssemblyInfo.cs
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\obj\Debug\net6.0\Singleton Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\bin\Debug\net6.0\Singleton Stopwatch.exe
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\bin\Debug\net6.0\Singleton Stopwatch.deps.json
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\bin\Debug\net6.0\Singleton Stopwatch.runtimeconfig.json
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\bin\Debug\net6.0\Singleton Stopwatch.dll
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\bin\Debug\net6.0\Singleton Stopwatch.pdb
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\obj\Debug\net6.0\Singleton Stopwatch.dll
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\obj\Debug\net6.0\refint\Singleton Stopwatch.dll
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\obj\Debug\net6.0\Singleton Stopwatch.pdb
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\obj\Debug\net6.0\Singleton Stopwatch.genruntimeconfig.cache
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_4\SENG350_Assignment_4\Singleton Stopwatch\obj\Debug\net6.0\ref\Singleton Stopwatch.dll
